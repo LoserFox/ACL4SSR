@@ -344,6 +344,9 @@ DOMAIN,st.dl.pinyuncloud.com
 DOMAIN,steampipe.steamcontent.tnkjmec.com
 DOMAIN,steampowered.com.8686c.com
 DOMAIN,steamstatic.com.8686c.com
+DOMAIN,cdn-qc.content.steamchina.com
+DOMAIN,xz.pphimalayanrt.com
+DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
 
 # Tencent
 DOMAIN-SUFFIX,foxmail.com
