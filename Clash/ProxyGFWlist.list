@@ -6181,6 +6181,8 @@ IP-CIDR6,2001:b28:f23f::/48,no-resolve
 # TeraBox
 DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,teraboxcdn.com
+# potato
+IP-CIDR,18.163.190.28/28,no-resolve
 
 # Whatsapp
 IP-CIDR,18.194.0.0/15,no-resolve
