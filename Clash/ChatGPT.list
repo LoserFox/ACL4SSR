@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,platform.openai.com
+DOMAIN-SUFFIX,sentry.io
 # Add ai.com
 DOMAIN-SUFFIX,ai.com
 # Add stripe.com
@@ -13,3 +14,5 @@ DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
 #add poe.com
 DOMAIN-SUFFIX,poe.com
+# ADD bard
+DOMAIN-SUFFIX,bard.google.com
