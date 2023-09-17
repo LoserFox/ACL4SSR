@@ -408,6 +408,10 @@ DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 
+# Moetran (i gonna say it shouldn't be here,but whatever.)
+DOMAIN-SUFFIX,moetran.com
+
+
 # YouTubeMusic
 USER-AGENT,*YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*
